@@ -5,8 +5,8 @@
 
 ###link to the repo: 
 https://github.com/ron93/save-a-child
-details:
-1 pager website charity website.
+###details:
+1 pager  charity foundation website.
 
 ###features: 
 >home
