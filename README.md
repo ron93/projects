@@ -1,22 +1,24 @@
 # personal projects
 
 <hr>
-SAVE A CHILD FOUNDATION
+##SAVE A CHILD FOUNDATION
 
-link to the repo: 
+###link to the repo: 
 https://github.com/ron93/save-a-child
 details:
 1 pager website charity website.
 
-features: 
-1.home
-2.about
-3.contacts
+###features: 
+>home
+>about
+>donate
+>contacts us
 
-tools used:
-foundation
+###tools used:
+foundation 6
 
 
-contributors:ronald yagan
+##contributors:
+Ronald Yagan
 
 <hr>
