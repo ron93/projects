@@ -42,3 +42,21 @@ foundation 6
 ##contributors:
 _Ronald Yagan_
 
+<hr>
+
+##MY PORTFOLIO
+
+###link to repo:
+https://github.com/ron93/my-portfolio
+
+###details
+1 pager porfolio.contains my details projects and how to contact me.
+###features
+>home
+>about me
+>projects
+>contact
+###tools used
+foudation 6
+##contributors
+_Ronald Yagan_
