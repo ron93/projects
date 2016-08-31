@@ -47,14 +47,14 @@ _Ronald Yagan_
 ##MY PORTFOLIO
 
 ###link to repo:
-https://github.com/ron93/my-portfolio
+https://github.com/ron93/portfolio
 
 ###details
 1 pager porfolio.contains my details projects and how to contact me.
 ###features
 >home
->about me
->projects
+>about 
+>My work
 >contact
 ###tools used
 foudation 6
