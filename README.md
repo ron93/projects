@@ -48,6 +48,8 @@ _Ronald Yagan_
 
 ###link to repo:
 https://github.com/ron93/portfolio
+##link:
+https://ron93.github.io/portfolio/
 
 ###details
 1 pager porfolio.contains my details projects and how to contact me.
