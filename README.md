@@ -44,6 +44,50 @@ _Ronald Yagan_
 
 <hr>
 
+##WAAT DIGITAL AGENCY
+
+###link to repo
+###LINK
+
+##SETTELITE TECHNOLOGIES
+
+###link to repo
+
+###link
+
+https://github.com/ron93/settelite-tech/tree/gh-pages
+
+
+###details:
+2 pager.Electronics shop website
+###features: 
+>home page
+>shopping page
+
+###tools used:
+foundation 6
+
+
+##contributors:
+_Ronald Yagan_
+
+
+###details:
+2 pager.Electronics shop website
+###features: 
+>home page
+>sabout
+>members
+>contacts
+
+###tools used:
+foundation 6
+
+
+##contributors:
+_Ronald Yagan_
+<hr>
+
 ##MY PORTFOLIO
 
 ###link to repo:
