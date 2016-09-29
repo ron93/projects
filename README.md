@@ -49,20 +49,12 @@ _Ronald Yagan_
 ###link to repo
 ###LINK
 
-##SETTELITE TECHNOLOGIES
-
-###link to repo
-
-###link
-
-https://github.com/ron93/settelite-tech/tree/gh-pages
-
-
-###details:
-2 pager.Electronics shop website
+2 pager.digital agency portfolio
 ###features: 
 >home page
->shopping page
+>about
+>members
+>contacts
 
 ###tools used:
 foundation 6
