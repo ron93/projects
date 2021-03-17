@@ -3,8 +3,9 @@
 
 ## Projects:
 <hr>
-**Reddit Data Project:**  - [Github repo](https://github.com/ron93/reddit-project.git)
 
+**Reddit Data Project:** 
+- [Github repo](https://github.com/ron93/reddit-project.git)
 - Reddit data extraction __PRAW Reddit API
 - Airflow task scheduling
 - sentiment analysis __vaderSentiment
