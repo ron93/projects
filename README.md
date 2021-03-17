@@ -28,9 +28,11 @@
 
 **Data Stories**
 - [Github repo](https://github.com/ron93/data-stories)
+- [link](http://ron93.github.io/data-stories/)
+
 - Data Visualization<br>
     ###tools used:<br>
-    React,D#.js<br>
+    React,D3.js<br>
     ##contributors:<br>
     _Ronald Yagan_
 
