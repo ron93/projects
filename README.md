@@ -31,9 +31,9 @@
 - [link](http://ron93.github.io/data-stories/)
 
 - Data Visualization<br>
-    ###tools used:<br>
+    ### tools used:<br>
     React,D3.js<br>
-    ##contributors:<br>
+    ## contributors:<br>
     _Ronald Yagan_
 
 <hr>
