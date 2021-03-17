@@ -28,10 +28,10 @@
 
 **Data Stories**
 - [Github repo](https://github.com/ron93/data-stories)
-- Data Visualization
-    ###tools used:
-    React,D#.js
-    ##contributors:
+- Data Visualization<br>
+    ###tools used:<br>
+    React,D#.js<br>
+    ##contributors:<br>
     _Ronald Yagan_
 
 <hr>
