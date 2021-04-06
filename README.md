@@ -9,6 +9,7 @@
 - Reddit data extraction __PRAW Reddit API
 - Airflow task scheduling
 - sentiment analysis __vaderSentiment
+- ***todo:***
 - Telegram bot consuming reddit data __Telegram API
 
 
