@@ -23,7 +23,7 @@
 **Reddit data Api**
 - [Github repo](https://github.com/ron93/reddit-data-API)
 
-- Flask api for data collected in _Reddit data project
+- Flask api querying data collected in _Reddit data project
 
 
 **Data Stories**
