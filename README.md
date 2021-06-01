@@ -18,7 +18,7 @@
 
 - Question extraction __Stack exchange data api
 - Airflow task scheduling
-- Storage of questions to Postgresql database 
+- Storage questions on Postgresql database 
 
 **Reddit data Api**
 - [Github repo](https://github.com/ron93/reddit-data-API)
